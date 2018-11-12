@@ -61,6 +61,8 @@ This document guide you the step to mount Amazon S3 as disk by using CloudMounte
 
 2.12.	Insert the bucket name which you want to connect.
 
+![2.12.png](/images/2.12.png)
+
 2.13.	Click **Mount**.
 
 2.14.	And you will see the cloud storage has successfully mounted as a disk in your finder.
